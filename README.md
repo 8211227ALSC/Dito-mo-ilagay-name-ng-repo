@@ -1,4 +1,4 @@
-99# Token
+# Token
 The implementation of a token contract that allows users to create and burn tokens is the primary goal of this Solidity project. The program also makes use of conditional expressions to make sure that certain actions are only carried out when possible. It also enables the tracking of balances linked to certain addresses.
 
 ## Description
@@ -33,7 +33,8 @@ function burn (address _address, uint _value) public{
     totalSupply -= _value;
     balances [_address] -= _value;
 }
-} }```
+} }
+```
 
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile myToken.sol" button.
 
