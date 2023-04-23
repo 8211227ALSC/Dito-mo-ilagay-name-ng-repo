@@ -49,7 +49,8 @@ To burn tokens, input the address of the recipient and the number of tokens you 
 To see current balances of the address, input the address of the recipient and the number of tokens you want to mint and click call. You can also see the total supply by clicking the “totalSupply” button.
 
 #### Authors
-NTCIAN Aila Marie Evangelista Discord @account email 
+NTCIAN Ann Loraine S. Ching
+Discord @annching
 
 ##### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the The Unlicensed - see the LICENSE.md file for details.
