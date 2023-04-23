@@ -1,4 +1,4 @@
-# Token
+99# Token
 The implementation of a token contract that allows users to create and burn tokens is the primary goal of this Solidity project. The program also makes use of conditional expressions to make sure that certain actions are only carried out when possible. It also enables the tracking of balances linked to certain addresses.
 
 ## Description
@@ -9,7 +9,7 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., myToken.sol). Copy and paste the following code into the file:
 
-'''
+` ` `
 // SPDX-License-Identifier: MIT pragma solidity 0.8.18; contract MyToken {
 
 // public variables here
@@ -34,7 +34,7 @@ function burn (address _address, uint _value) public{
     balances [_address] -= _value;
 }
 } }
-'''
+` ` `
 
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile myToken.sol" button.
 
