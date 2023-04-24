@@ -53,4 +53,4 @@ To see current balances of the address, input the address of the recipient and t
 NTCIAN Ann Loraine S. Ching | Discord @annching
 
 ##### License
-This project is licensed under the The Unlicensed - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
